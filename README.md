@@ -1,2 +1,2 @@
 # bankist
-demo of small bank application
+Demo of small bank application
